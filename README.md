@@ -5,29 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinesh9042" alt="abinesh9042" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abinesh9042" target="blank"><img src="https://img.shields.io/twitter/follow/abinesh9042?logo=twitter&style=for-the-badge" alt="abinesh9042" /></a> </p>
-
-- 📫 How to reach me **abineshwprk9042@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📫 How to reach me **abineshwork9042@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/abinesh9042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abinesh9042" height="30" width="40" /></a>
-<a href="https://dev.to/abinesh9042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abinesh9042" height="30" width="40" /></a>
-<a href="https://twitter.com/abinesh9042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abinesh9042" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abinesh9042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abinesh9042" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/abinesh9042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abinesh9042" height="30" width="40" /></a>
-<a href="https://codesandbox.com/abinesh9042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abinesh9042" height="30" width="40" /></a>
-<a href="https://kaggle.com/abinesh9042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abinesh9042" height="30" width="40" /></a>
-<a href="https://fb.com/abinesh9042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abinesh9042" height="30" width="40" /></a>
 <a href="https://instagram.com/abinesh9042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abinesh9042" height="30" width="40" /></a>
 <a href="https://dribbble.com/abinesh9042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="abinesh9042" height="30" width="40" /></a>
 <a href="https://medium.com/@abinesh9042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abinesh9042" height="30" width="40" /></a>
 <a href="https://discord.gg/5gQR8UxyDg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5gQR8UxyDg" height="30" width="40" /></a>
-<a href="/abinesh9042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="abinesh9042" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abinesh9042&show_icons=true&locale=en" alt="abinesh9042" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abinesh9042&" alt="abinesh9042" /></p>
-
